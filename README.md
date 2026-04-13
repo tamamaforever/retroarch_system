@@ -2,13 +2,13 @@
 
 Complete, verified collection of BIOS, firmware, and system files for retrogaming emulators.
 
-> **6724** files | **5013.3 MB** | **8** platforms | **275** emulator profiles
+> **6719** files | **3893.9 MB** | **8** platforms | **275** emulator profiles
 
 ## Download
 
 | Platform | Files | Verification | Pack |
 |----------|-------|-------------|------|
-| Batocera | 359 | md5 | [Download](../../releases/latest) |
+| Batocera | 353 | md5 | [Download](../../releases/latest) |
 | EmuDeck | 161 | md5 | [Download](../../releases/latest) |
 | Lakka | 448 | existence | [Download](../../releases/latest) |
 | Recalbox | 346 | md5 | [Download](../../releases/latest) |
@@ -21,14 +21,14 @@ Complete, verified collection of BIOS, firmware, and system files for retrogamin
 
 | Platform | Coverage | Verified | Untested | Missing |
 |----------|----------|----------|----------|---------|
-| Batocera | 359/359 (100.0%) | 358 | 1 | 0 |
-| EmuDeck | 161/161 (100.0%) | 161 | 0 | 0 |
-| Lakka | 448/448 (100.0%) | 448 | 0 | 0 |
+| Batocera | 347/353 (98.3%) | 345 | 2 | 6 |
+| EmuDeck | 153/161 (95.0%) | 153 | 0 | 8 |
+| Lakka | 447/448 (99.8%) | 447 | 0 | 1 |
 | Recalbox | 346/346 (100.0%) | 346 | 0 | 0 |
-| RetroArch | 448/448 (100.0%) | 448 | 0 | 0 |
-| RetroBat | 331/331 (100.0%) | 331 | 0 | 0 |
-| RetroDECK | 2007/2007 (100.0%) | 1698 | 309 | 0 |
-| RetroPie | 448/448 (100.0%) | 448 | 0 | 0 |
+| RetroArch | 447/448 (99.8%) | 447 | 0 | 1 |
+| RetroBat | 327/331 (98.8%) | 327 | 0 | 4 |
+| RetroDECK | 1850/2007 (92.2%) | 1697 | 153 | 157 |
+| RetroPie | 447/448 (99.8%) | 447 | 0 | 1 |
 
 ## Documentation
 
@@ -36,6 +36,7 @@ Full file listings, platform coverage, emulator profiles, and gap analysis: **[h
 
 ## Contributors
 
+<a href="https://github.com/PixNyb"><img src="https://avatars.githubusercontent.com/u/40770831?v=4" width="50" title="PixNyb"></a>
 <a href="https://github.com/monster-penguin"><img src="https://avatars.githubusercontent.com/u/266009589?v=4" width="50" title="monster-penguin"></a>
 
 
@@ -47,4 +48,4 @@ See [CONTRIBUTING.md](CONTRIBUTING.md) for guidelines.
 
 This repository provides BIOS files for personal backup and archival purposes.
 
-*Auto-generated on 2026-03-20T19:10:25Z*
+*Auto-generated on 2026-04-13T10:05:05Z*
